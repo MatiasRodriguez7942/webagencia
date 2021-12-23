@@ -1,6 +1,9 @@
 {
   "name": "agencialosnavegantes",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  }
   "private": true,
   "description": "Agencialosnavegantes",
   "author": "Matias97788",
